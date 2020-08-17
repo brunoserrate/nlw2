@@ -1,37 +1,42 @@
-# Next Level Week 2º Edição
-> Projeto NLW 2º edição da rocketseat 
+# Next Level Week 2º Edition
 
-![NPM Version][npm-image]
-![TYPES][types-img]
+<p align="center">
+  <span>English</span> |
+  <a href="./lang/portuguese-brazil/README.md">Português Brasileiro</a>
+</p>
 
-Proffy é uma plataforma para conectar alunos e professores de matérias diversas.
+<div align="center">
+	<img src="https://img.shields.io/npm/v/npm">
+	<img src="https://img.shields.io/npm/types/typescript" >
+</div>
 
-## Instalação
+Proffy is a plataform to connect students and teachers of many subjects
 
-Use o comando:
+## Installation
+
+Use the command:
 
 ```sh
 npm install
 ```
-Para instalar as dependências de cada pasta
+To install all the dependencies of each folder
 
-## Inicializando
+## Start
 
-Para inicializar cada modulo:
+To start each module:
 
 ```sh
 npm start
 ```
-Portas:
+Ports:
 * Server: 3333 (server.ts);
 * Mobile: expo default;
 * Web: 3000 (react default);
 
-## Licença
+## License
 
-Este projeto está licenciado sob a Licença MIT.
+This project is licensed under an MIT License
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/npm
 [types-img]: https://img.shields.io/npm/types/typescript
-[wiki]: https://github.com/yourname/yourproject/wiki
